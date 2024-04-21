@@ -37,6 +37,9 @@ p {
   .row {
     margin-bottom: 30px;
   }
+}
+
+@media screen and (max-width:575px) {
   #page-top {
     width: 40px;
     height: 40px;
@@ -48,7 +51,6 @@ p {
     bottom: 20px;
     background-color: #FFA500;
   }
-  
   #page-top a {
     display: inline-block;
     width: 100%;
